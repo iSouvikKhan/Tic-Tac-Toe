@@ -75,10 +75,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <h1>Winner</h1>
 
-![](https://github.com/souvik97381/iNEURON-Assignments-Java/blob/master/Assignment_1_Enterprise/q5.png)
+![](https://github.com/souvik97381/Tic-Tac-Toe/blob/master/winner.png)
 
 ##
 
 <h1>Match Draw</h1>
 
-![](https://github.com/souvik97381/iNEURON-Assignments-Java/blob/master/Assignment_1_Enterprise/q5.png)
+![](https://github.com/souvik97381/Tic-Tac-Toe/blob/master/draw.png)
