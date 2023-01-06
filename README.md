@@ -73,6 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Game interface
 
+<h1>Game restarted</h1>
+
+![](https://github.com/souvik97381/Tic-Tac-Toe/blob/master/restart.png)
+
+##
+
 <h1>Winner</h1>
 
 ![](https://github.com/souvik97381/Tic-Tac-Toe/blob/master/winner.png)
